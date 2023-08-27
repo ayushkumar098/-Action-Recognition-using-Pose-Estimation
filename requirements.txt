@@ -1,0 +1,5 @@
+numpy
+opencv-python==4.5.3.56
+mediapipe==0.8.8
+matplotlib==3.4.3
+jupyterlab
